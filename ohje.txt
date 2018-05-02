@@ -1,3 +1,6 @@
 1) Aloita varovasti
 2) Älä hosu
 3) Tämä on kolmas kohta
+
+5) Lisääty tämä rivi commitin jälkeen
+6) Tänään töissä harmaa päivä, Mustajärvi ja Puro saivat potkut
